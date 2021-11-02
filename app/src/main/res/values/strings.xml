@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lite</string>
+    <string name="title_pocenta">Početna</string>
+    <string name="title_pretvaraci">Pretvarači</string>
+    <string name="title_komponente">Komponente</string>
+    <string name="title_forum">Forum</string>
+    <string name="naslov">Elektrotehnicar LITE</string>
+    <string name="potpis">Developed by gmijo</string>
+    <string name="izlaz">"Da li ste sigurni da želite izaći?"</string>
+
+</resources>

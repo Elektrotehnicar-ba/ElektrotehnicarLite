@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_pocetna"
+        android:icon="@drawable/ic_pocetna"
+        android:title="@string/title_pocenta" />
+
+    <item
+        android:id="@+id/navigation_pretvaraci"
+        android:icon="@drawable/ic_pretvaraci"
+        android:title="@string/title_pretvaraci" />
+
+    <item
+        android:id="@+id/navigation_komponente"
+        android:icon="@drawable/ic_komponente"
+        android:title="@string/title_komponente" />
+    <item
+        android:id="@+id/navigation_forum"
+        android:icon="@drawable/ic_forum"
+        android:title="@string/title_forum" />
+
+</menu>
